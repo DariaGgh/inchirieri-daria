@@ -586,7 +586,13 @@ section {
     display: none;
   }
 
-  
+  .hero .info h1{
+  font-size: 40px;
+ }
+
+  .hero .info p{
+  font-size: 15px;
+ }
 }
 
 .nr-tel{
