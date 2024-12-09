@@ -1385,7 +1385,7 @@ section {
   margin-top: 100px;
   margin-bottom: 30px;
   padding-bottom: 30px;
-  font-size: 56px;
+  font-size: 50px;
   font-weight: 700;
   position: relative;
 }
@@ -1404,14 +1404,14 @@ section {
 }
 
 @media (max-width: 768px) {
-  .hero .info h2 {
-    font-size: 36px;
+  .hero .info h1 {
+    font-size: 30px;
   }
 }
 
 .hero .info p {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .hero .carousel-control-prev {
