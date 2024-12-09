@@ -191,7 +191,7 @@ section {
 }
 
 .breadcrumbs h1 {
-  font-size: 56px;
+  font-size: 50px;
   font-weight: 500;
   color: #fff;
   font-family: var(--font-secondary);
@@ -587,7 +587,7 @@ section {
   }
 
   .hero .info h1{
-  font-size: 400px;
+  font-size: 40px;
  }
 
   .hero .info p{
