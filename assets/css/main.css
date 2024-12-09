@@ -1404,7 +1404,7 @@ section {
 }
 
 @media (max-width: 768px) {
-  .hero .info h2 {
+  .hero .info h1 {
     font-size: 36px;
   }
 }
