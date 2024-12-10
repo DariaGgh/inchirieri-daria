@@ -1363,7 +1363,7 @@ section {
 
 .hero .carousel-item::before {
   content: "";
-  background-image: linear-gradient( #171717, rgba(0, 0, 0, 0.273)) ;
+  background-image: linear-gradient( #171717, rgba(0, 0, 0, 0.353)) ;
   position: absolute;
   inset: 0;
 }
